@@ -1,1 +1,1 @@
-Hello World!
+This is a test repo that lets me play with features of git.
